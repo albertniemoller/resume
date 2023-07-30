@@ -2,6 +2,8 @@
 
 MERGE_CONTACT_DETAILS_HERE
 
+https://github.com/albertniemoller/resume
+
 ## Summary and Objective
 
 I have over 20 years of experience in software development and have been
@@ -11,10 +13,8 @@ promoted from entry level to principal engineer. In the past decade I have
 delivered distributed systems that have often had very high availability
 constraints and/or worked with big data. 
 
-I am seeking a position in a mission driven organization where I can have a
-direct impact on hard problems facing people and our societies. I'd like to do
-so by leveraging my existing skills while also expanding my skillset in data
-analysis and into machine learning and artificial intelligence. 
+I am interested in positions where I can have a direct and substantive 
+impact on the major problems facing people and societies.
 
 ## Experience
 

@@ -12,13 +12,12 @@ fi
 
 set -e
 
-cat $INPUT_FILE | \
+# echoing "" after catting is a hacky way to ensure we have a newline so everything gets read
+( cat $INPUT_FILE; echo "") | \
     while read LINE; do
         if $(echo $LINE | fgrep -q $SUBST_TOKEN); then
             cat $REDACT_FILE
-
-            # not sure what's going on here but we're dropping a newline so adding it back. Dig into this if we ever start having extra newlines.
-            echo ""
+            echo "" 
         else
             echo $LINE
         fi

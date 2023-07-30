@@ -1,4 +1,7 @@
-This is the resume of Albert Niemoller. Some of my contact info is purposefully
+This repo holds my resume. If you just want to read the resume it's here:
+https://github.com/albertniemoller/resume/blob/main/src/AlbertNiemollerResume.md
+
+Some of my contact info is purposefully
 redacted in this public repo. Please contact me through GitHub if you wish to
 inquire about employing me. 
 
