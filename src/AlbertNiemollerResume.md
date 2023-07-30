@@ -2,7 +2,6 @@
 
 MERGE_CONTACT_DETAILS_HERE
 
-
 ## Summary and Objective
 
 I have over 20 years of experience in software development and have been

@@ -16,6 +16,9 @@ cat $INPUT_FILE | \
     while read LINE; do
         if $(echo $LINE | fgrep -q $SUBST_TOKEN); then
             cat $REDACT_FILE
+
+            # not sure what's going on here but we're dropping a newline so adding it back. Dig into this if we ever start having extra newlines.
+            echo ""
         else
             echo $LINE
         fi
